@@ -27,7 +27,7 @@ namespace Phone
 
             phonebook.SearchPhone("Jane");
 
-            phonebook.UpdatePhone("John", "9998887777");
+            phonebook.UpdatePhone("John" , "9998887777");
 
             phonebook.Sort();
             Console.WriteLine(phonebook);
