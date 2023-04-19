@@ -1,0 +1,15 @@
+D:\C#-T2207A\Phone\bin\Debug\net6.0\Phone.exe
+D:\C#-T2207A\Phone\bin\Debug\net6.0\Phone.deps.json
+D:\C#-T2207A\Phone\bin\Debug\net6.0\Phone.runtimeconfig.json
+D:\C#-T2207A\Phone\bin\Debug\net6.0\Phone.dll
+D:\C#-T2207A\Phone\bin\Debug\net6.0\Phone.pdb
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.csproj.AssemblyReference.cache
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.AssemblyInfoInputs.cache
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.AssemblyInfo.cs
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.csproj.CoreCompileInputs.cache
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.dll
+D:\C#-T2207A\Phone\obj\Debug\net6.0\refint\Phone.dll
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.pdb
+D:\C#-T2207A\Phone\obj\Debug\net6.0\Phone.genruntimeconfig.cache
+D:\C#-T2207A\Phone\obj\Debug\net6.0\ref\Phone.dll
